@@ -573,15 +573,7 @@ adb -s 192.168.1.20:5555 uninstall com.leslie.tvhome
 自动化只读取模板中的结构化字段，为中英文 README 创建待审核 PR；不会把陌生用户的反馈直接当成确认兼容，也不会直接改 `main`。
 
 <!-- TV_COMPATIBILITY_AUTO_START -->
-| 品牌与型号 | Android | Tigris / 安装包 | 安装结果 | Issue 状态 | 来源 |
-|---|---|---|---|---|---|
-| TCL Q10L | 安卓12 | 2.0.22 / 标准版 | 已安装且能启动（自报） | 未关闭 | [#89](https://github.com/lesnolie/Tigris/issues/89) |
-| SONY 9500G | 10 | 2.0.17 / 标准版 | 已安装且能启动（自报） | 未关闭 | [#77](https://github.com/lesnolie/Tigris/issues/77) |
-| Sony XR-55A80K &#124; BRAVIA 4K VH21 | Android 12 (API level 31) | v2.0.15 / 标准版 | 已安装且能启动（自报） | 已关闭（未验证修复） | [#69](https://github.com/lesnolie/Tigris/issues/69) |
-| Sony BRAVIA 4K GB（BRAVIA_ATV2_CN，国行，2017 平台） | Android 9 (API 28) | v2.0.11 / 标准版 | 已安装且能启动（自报） | 未关闭 | [#53](https://github.com/lesnolie/Tigris/issues/53) |
-| GOOJODOQ HY300 Pro+ | Android 14 | v2.0.9 / 标准版 | 已安装且能启动（自报） | 未关闭 | [#47](https://github.com/lesnolie/Tigris/issues/47) |
-| 创维酷开 85P3DMAX | Android 11 | 2.0.2 / 自定义 Fork | 已安装且能启动（自报） | 已关闭（未验证修复） | [#15](https://github.com/lesnolie/Tigris/issues/15) |
-| 雷鸟 75S545C | Android 9 | V2.0.2 / 守护版 | 已安装且能启动（自报） | 已关闭（未验证修复） | [#14](https://github.com/lesnolie/Tigris/issues/14) |
+尚无新的结构化社区反馈。[提交电视兼容性反馈](https://github.com/AndroidTV-Lab/lesnolie-Tigris/issues/new/choose)。
 <!-- TV_COMPATIBILITY_AUTO_END -->
 
 ### 适配新品牌
